@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LTCB-CanChi", "LTCB-CanChi.vcxproj", "{BF7B4589-B866-4DC8-A920-02BB69C7BEA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF7B4589-B866-4DC8-A920-02BB69C7BEA6}.Debug|x64.ActiveCfg = Debug|x64
+		{BF7B4589-B866-4DC8-A920-02BB69C7BEA6}.Debug|x64.Build.0 = Debug|x64
+		{BF7B4589-B866-4DC8-A920-02BB69C7BEA6}.Debug|x86.ActiveCfg = Debug|Win32
+		{BF7B4589-B866-4DC8-A920-02BB69C7BEA6}.Debug|x86.Build.0 = Debug|Win32
+		{BF7B4589-B866-4DC8-A920-02BB69C7BEA6}.Release|x64.ActiveCfg = Release|x64
+		{BF7B4589-B866-4DC8-A920-02BB69C7BEA6}.Release|x64.Build.0 = Release|x64
+		{BF7B4589-B866-4DC8-A920-02BB69C7BEA6}.Release|x86.ActiveCfg = Release|Win32
+		{BF7B4589-B866-4DC8-A920-02BB69C7BEA6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80CD1BCA-285E-49D9-9BB0-D2784D6ADC91}
+	EndGlobalSection
+EndGlobal
